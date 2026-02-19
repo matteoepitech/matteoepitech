@@ -1,6 +1,4 @@
 ## Hi there 👋
-
 <p align="center">
-  <img height="180em" src="https://dellixoubot-stats.vercel.app/api?username=matteoepitech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://dellixoubot-stats.vercel.app/api/top-langs/?username=matteoepitech&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,makefile,cmake,smali,cython" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=matteoepitech&theme=vue-dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
